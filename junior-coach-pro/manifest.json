@@ -1,0 +1,19 @@
+
+{
+  "name": "Junior Coach Pro",
+  "short_name": "Coach Pro",
+  "description": "Junior Basketball Tactical Whiteboard & Rotation Tool",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/img/889590.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
